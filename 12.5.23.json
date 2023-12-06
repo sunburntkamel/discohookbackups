@@ -1,0 +1,32 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "12.5.23",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "beep boop",
+                "color": null
+              },
+              {
+                "description": "double boop",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/246368461276708864/1181776719162658858/1181776719162658858"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1181776651378511915/44HWfhpqjuYuD_9jbZAMW9W3MT-gjGF08o0WiHk-89FR5MDaub8fMX9Bsk9iFXqldxEQ"
+        }
+      ]
+    }
+  ]
+}
